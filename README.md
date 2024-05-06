@@ -37,7 +37,7 @@ Este programa mustra un ejemplo de como utilizar el menu
 ## :snake: Link al proyecto
 - [proyecto](https://onlinegdb.com/q3RGvZwgB)
 ## :tv: Link al video del proceso
-- [video](https://www.youtube.com/watch?v=VyGjE8kx-O0)
+- [video](https://youtu.be/EdJixU5IDgQ)
 
 ---
 ### Fuentes
@@ -46,7 +46,7 @@ Este programa mustra un ejemplo de como utilizar el menu
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-- [Tutorial](https://www.youtube.com/watch?v=oxaH9CFpeEE).
+- [Tutorial](https://youtu.be/EdJixU5IDgQ).
 
 - [Emojis](https://gist.github.com/rxaviers/7360908).
 
